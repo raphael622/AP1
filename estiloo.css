@@ -1,0 +1,75 @@
+body{
+	font-family: Helvetica, sans-serif;
+}
+body{
+	background-image: url("Kami.png");
+	background-repeat: no-repeat;
+	background-position: 50% 90%;
+	background-size: 30%;
+
+}
+.btn{
+	font-size:14px;
+ 	font-weight:700;
+	border:none;
+	padding:15px;
+}
+.btn-red{
+	background: red;
+	color:#fff;
+	border-radius: 20px;
+}
+#opcao {
+	width: 930px;
+	margin: auto;
+}
+#menu {
+	color: grey;
+
+}
+#me {
+	color: red;
+	font-size: 30px;
+}
+#home{
+	color: red;
+}
+header nav{
+	list-style: none;
+	margin-left: 100px;
+	padding-top: 20px; 
+}
+header nav a{
+	display: inline;
+	margin-right: 45px
+}
+
+header nav a{
+	text-decoration: none;
+	font-size: 20px;
+}	
+header section { 
+	margin-top: 200px;
+	margin-left: 190px;
+}
+header section h2{
+	font-size: 30px
+}
+#nome{
+	line-height: 0.2;
+	margin-left: 10%;
+	margin-top: 10%;
+
+}
+
+#texto {
+column-count: 2;
+margin: 10%;
+column-gap: 50%;
+margin-top:1%;
+text-align: justify;
+text-justify: inter-word;
+line-height: 1.5;
+color: #555;
+
+}
